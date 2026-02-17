@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0fc484c7a3fbe59f7a14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtTimerApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-737a6a8244422c1e94fc.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-07d41a2b8845ca67d24e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-09250180947afa0d683d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-597466a8d60c57014b00.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d332d25dd86af28b4323.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp-Debug-488f9b1a8b9e694d4256.json",
+					"name" : "appQtTimerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_autogen-Debug-0eeb03dd81fbe064b40f.json",
+					"name" : "appQtTimerApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_autogen_timestamp_deps-Debug-2cb37bae1c0b245a8180.json",
+					"name" : "appQtTimerApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_copy_qml-Debug-43f93c8c7a821bb27e65.json",
+					"name" : "appQtTimerApp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_copy_res-Debug-bf26515fa1e46cd32c69.json",
+					"name" : "appQtTimerApp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_qmlimportscan-Debug-d10e722f06be863e8921.json",
+					"name" : "appQtTimerApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_qmllint-Debug-860d3f62133aa3b9129f.json",
+					"name" : "appQtTimerApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_qmllint_json-Debug-1e4a744b1db7b562f3a9.json",
+					"name" : "appQtTimerApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_qmllint_module-Debug-b2df024f9b85c7cf30b2.json",
+					"name" : "appQtTimerApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtTimerApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtTimerApp_qmltyperegistration-Debug-359f28a70935f7e41b44.json",
+					"name" : "appQtTimerApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-37a5a5f1f5190a9f7d9c.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appQtTimerApp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appQtTimerApp_aotstats_target-Debug-0e3713e0aa0075624614.json",
+					"name" : "module_appQtTimerApp_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ketul/Desktop/QMT/QtTimerApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ketul/Desktop/QMT/QtTimerApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

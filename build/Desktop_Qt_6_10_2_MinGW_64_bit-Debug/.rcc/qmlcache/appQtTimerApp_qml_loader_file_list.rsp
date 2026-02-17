@@ -1,0 +1,7 @@
+--resource
+C:/Users/ketul/Desktop/QMT/QtTimerApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_QtTimerApp.qrc
+--resource
+C:/Users/ketul/Desktop/QMT/QtTimerApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appQtTimerApp_raw_qml_0.qrc
+/QtTimerApp/Main.qml
+/QtTimerApp/MenuScreen.qml
+/QtTimerApp/Screen1.qml

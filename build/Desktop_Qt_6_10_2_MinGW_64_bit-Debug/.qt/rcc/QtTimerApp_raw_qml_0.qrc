@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/QtTimerApp/">
+    <file alias="qml/Main.qml">C:/Users/ketul/Desktop/QMT/QtTimerApp/qml/Main.qml</file>
+    <file alias="qml/MenuScreen.qml">C:/Users/ketul/Desktop/QMT/QtTimerApp/qml/MenuScreen.qml</file>
+    <file alias="qml/Screen1.qml">C:/Users/ketul/Desktop/QMT/QtTimerApp/qml/Screen1.qml</file>
+  </qresource>
+</RCC>
+

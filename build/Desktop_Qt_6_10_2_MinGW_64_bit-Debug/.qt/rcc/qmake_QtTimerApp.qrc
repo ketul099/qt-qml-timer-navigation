@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QtTimerApp">
+    <file alias="qmldir">C:/Users/ketul/Desktop/QMT/QtTimerApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/QtTimerApp/qmldir</file>
+  </qresource>
+</RCC>
+

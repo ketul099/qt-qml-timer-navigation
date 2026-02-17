@@ -1,0 +1,8 @@
+module QtTimerApp
+typeinfo appQtTimerApp.qmltypes
+prefer :/QtTimerApp/
+Main 1.0 Main.qml
+MenuScreen 1.0 MenuScreen.qml
+Screen1 1.0 Screen1.qml
+depends QtQuick
+
